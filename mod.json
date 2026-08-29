@@ -1,0 +1,14 @@
+mod.json
+{
+  "geode": "4.0.0",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081"
+  },
+  "id": "kbot",
+  "name": "Kbot",
+  "version": "1.0.0",
+  "developer": "KbotDev",
+  "description": "Kbot macro tool",
+  "tags": ["utility"]
+}
